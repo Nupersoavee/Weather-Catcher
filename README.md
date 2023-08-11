@@ -1,12 +1,12 @@
 # Weather-Catcher
 Build in Weather.gov api service inside of script.
 
-#NOTE#
+# NOTE
 
 only works in the united states (since of weather.gov is a goverment service in the usa)
 
 
-#How to use
+# How to use
 
 To use it, you need a lat and lon cords for your city name. this will determine the location of your city name.
 
